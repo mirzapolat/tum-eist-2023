@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05eb8a9f-5903-4d49-9bef-d331fd688982" name="Changes" comment="Update Information" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2R6Oy0qLs1WhMi3mLvD6NYjGfhR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/PROJEKTE/University/GAD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05eb8a9f-5903-4d49-9bef-d331fd688982" name="Changes" comment="" />
+      <created>1686567314971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686567314971</updated>
+      <workItem from="1686567316350" duration="2345000" />
+    </task>
+    <task id="LOCAL-00001" summary="Notify Observers">
+      <created>1686567663265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686567663265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Notify Observers (Update)">
+      <created>1686567789480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686567789480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Course test">
+      <created>1686568248066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568248066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="try something">
+      <created>1686568474873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568474873</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Noch ein Push">
+      <created>1686568612154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568612154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Konstructor eingerichtet und observer">
+      <created>1686568834066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568834066</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Select a course">
+      <created>1686568953395</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568953395</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New Course">
+      <created>1686569106951</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569106951</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Code Style issues">
+      <created>1686569227162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569227162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Edit Save Course">
+      <created>1686569327813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569327813</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update Information">
+      <created>1686569507344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569507344</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Notify Observers" />
+    <MESSAGE value="Notify Observers (Update)" />
+    <MESSAGE value="Add Course test" />
+    <MESSAGE value="try something" />
+    <MESSAGE value="Noch ein Push" />
+    <MESSAGE value="Konstructor eingerichtet und observer" />
+    <MESSAGE value="Select a course" />
+    <MESSAGE value="New Course" />
+    <MESSAGE value="Code Style issues" />
+    <MESSAGE value="Edit Save Course" />
+    <MESSAGE value="Update Information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Information" />
+  </component>
+</project>

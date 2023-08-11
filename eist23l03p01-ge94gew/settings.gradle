@@ -1,0 +1,5 @@
+rootProject.name = 'L03P01-Strangler-Pattern'
+include 'master-yoda-service'
+include 'obi-wan-kenobi-service'
+include 'client'
+
